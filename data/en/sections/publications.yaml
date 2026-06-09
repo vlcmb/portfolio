@@ -17,24 +17,6 @@ buttons:
 
 # your publications
 publications:
-- title: "Placeholder Paper on Natural Language Processing"
-  publishedIn:
-    name: "Conference on NLP (Placeholder)"
-    date: "June 2024"
-    url: https://example.com
-  authors:
-  - name: Valentin
-    url: https://vlcmb.github.io
-  - name: Co-Author 1
-    url: https://example.com
-  - name: Co-Author 2
-    url: https://example.com
-  paper:
-    summary: "This is a placeholder for your paper abstract. Replace with the actual abstract of your publication."
-    url: https://example.com
-  categories: ["nlp"]
-  tags: ["NLP", "Language Models", "Benchmarks"]
-
 - title: "Kantian Dynamics"
   publishedIn:
     name: "International Game Theory Review"

@@ -8,14 +8,14 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Researcher
+designation: AI Research Engineer
 # your company/institution information
 company:
-  name: Research Institution
-  url: "https://www.example.com"
+  name: INRIA
+  url: "https://www.inria.fr"
 
 # a summary about you
-summary: "I am a researcher working at the intersection of Natural Language Processing and Machine Learning. I develop open-source tools and enjoy exploring new ideas in AI. Welcome to my personal page!"
+summary: "AI Research Engineer at INRIA specializing in Large Language Models (LLMs), reinforcement learning, and causal reasoning. Building on a background in applied mathematics, I co-develop open-source procedural data generation tools and supervise undergraduate research projects. Highly motivated to leverage this expertise for a PhD position focused on Agentic AI and Kantian evolutionary game theory."
 
 # your social links
 socialLinks:
@@ -76,4 +76,19 @@ badges:
   name: Sports
   percentage: 85
   color: red
+
+- type: soft-skill-indicator
+  name: French (Native)
+  percentage: 100
+  color: blue
+
+- type: soft-skill-indicator
+  name: English (Advanced)
+  percentage: 85
+  color: sky
+
+- type: soft-skill-indicator
+  name: Italian (Intermediate)
+  percentage: 55
+  color: green
 

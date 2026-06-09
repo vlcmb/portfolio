@@ -51,3 +51,11 @@ skills:
 - name: LaTeX
   icon: fas fa-file-pdf
   summary: Typesetting professional, publication-ready technical and scientific documents and research papers.
+
+- name: R
+  icon: fas fa-chart-bar
+  summary: Statistical computing and data analysis, including modeling and visualization.
+
+- name: Matlab
+  icon: fas fa-square-root-alt
+  summary: Numerical computing and simulation for applied mathematics and engineering problems.

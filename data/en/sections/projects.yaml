@@ -19,23 +19,22 @@ buttons:
 
 # your projects
 projects:
-- name: Reasoning Core
-  role: Developer
-  timeline: "2024 - Present"
+- name: reasoning_core
+  role: Co-author & Lead Developer
+  timeline: "2025 - Present"
   repo: https://github.com/sileod/reasoning_core
-  summary: "A Python library for generating synthetic reasoning benchmarks for evaluating language models."
+  summary: "An open-source Python library for generating synthetic procedural data for LLM training (SFT + RLVR). Implements structural causal models supporting observational, interventional, and counterfactual queries based on Judea Pearl's Ladder of Causation."
   tags: ["research", "open-source", "tools"]
 
-- name: Research Project 2
+- name: Kantian Evolutionary Game Theory
   role: Researcher
-  timeline: "2023 - 2024"
-  url: "https://www.example.com"
-  summary: "Placeholder description for a research project. Replace with your actual project details."
+  timeline: "2022 - 2023"
+  url: "https://www.worldscientific.com/doi/epdf/10.1142/S0219198925500069"
+  summary: "Master thesis exploring the integration of Kant's categorical imperative into evolutionary game theory. Developed a population dynamics model combining selfish gain with moral cooperation. Led to a published paper in the International Game Theory Review."
   tags: ["research"]
 
-- name: Open Source Tool
-  role: Developer
-  timeline: "2023 - Present"
-  repo: https://github.com/vlcmb
-  summary: "Placeholder description for an open-source tool. Replace with your actual project details."
-  tags: ["open-source", "tools"]
+- name: Medical AI Research — Lombardy Hospitals
+  role: Researcher
+  timeline: "2022 - 2023"
+  summary: "Three research projects conducted at Politecnico di Milano: Computer Vision for pulmonary disease detection, categorization of heart failure therapies, and a non-parametric statistical study on tobacco consumption trends across OECD countries."
+  tags: ["research"]
