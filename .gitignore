@@ -1,5 +1,5 @@
-public/
-resources/
-.hugo_build.lock
+# Notes de déploiement : elles décrivent l'accès root au VPS (hôte, chemins,
+# services). Volontairement gardées hors de ce dépôt, qui est public.
+DEPLOIEMENT.md
+
 .DS_Store
-*.pdf
